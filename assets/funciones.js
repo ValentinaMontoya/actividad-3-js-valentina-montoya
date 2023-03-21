@@ -50,7 +50,7 @@ const saludar5 = (nombre) => {
 let saludando2 = saludar5('Jeon Jungkook')
 console.log(saludando)
 
-console.warn('Finción con Math.random')
+console.warn('Función con Math.random')
 
 /* function rand() {
     return Math.random()
